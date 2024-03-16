@@ -1,0 +1,5 @@
+train: /home/ch/Downloads/yolov5Model/data/images/train
+val: /home/ch/Downloads/yolov5Model/data/images/val 
+
+nc: 1
+names : ['person']
