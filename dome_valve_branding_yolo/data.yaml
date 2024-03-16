@@ -1,0 +1,9 @@
+train: /home/ch/Downloads/dome_valve_branding_yolo/train
+val: /home/ch/Downloads/dome_valve_branding_yolo/valid
+nc: 6
+names: ['branding',
+'crashguard',
+'valve_close_V2',
+'valve_open_V2',
+'dome_open_circle',
+'dome_open_square']
